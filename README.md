@@ -1,25 +1,61 @@
-# Hi there! 👋 I'm Prasanth 
+# Hi there! 👋 I'm Prasanth Muntha
+
+### 🎓 MS in AI/ML at Yeshiva University | 💻 Ex-Software Developer at Aloha Technologies
+
+I am a **Software Developer** and **AI/ML Practitioner** bridging the gap between **Agentic AI**, **3D Computer Vision**, and **Scalable Data Engineering**. 
+
+Currently, I am pursuing my Master's in Artificial Intelligence at Yeshiva University, focusing on building local-first reasoning agents and hybrid deep learning pipelines.
+
+---
 
 ## 🚀 About Me
-I'm a passionate **Software Developer** and **AI/ML Enthusiast** currently pursuing my **Master's in Artificial Intelligence and Machine Learning at Yeshiva University**. I have experience working with:
-- 🖥️ **Django & Full-Stack Development**
-- 📊 **SQL, PostgreSQL, Athena, and Data Processing**
-- 🤖 **Machine Learning & NLP (BERT, MoveNet, etc.)**
-- ☁️ **AWS (Lambda, Glue, S3, Athena)**
-- 🔬 **Deep Learning & Model Fine-Tuning**
+- 🔭 **I’m currently working on:** Building **Agentic RAG systems** (Llama 3.2 + LangChain) that run locally with "Flight Mode" privacy.
+- 💼 **I have experience in:** - **3D Computer Vision:** Diagnosing Scoliosis using PyVista, VTK, and MoveNet.
+    - **Cloud Data Engineering:** Migrating ETL workflows to **AWS MWAA (Airflow)** and **AWS Glue/Athena**.
+    - **Full-Stack AI:** Deploying inference pipelines using **FastAPI** and **Docker**.
+- 🌱 **I’m currently learning:** Advanced retrieval strategies for RAG and optimizing small language models (SLMs).
+- 💬 **Ask me about:** Python, RAG Pipelines, 3D Mesh Processing, or AWS Data Architectures.
 
+---
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=plastic&logo=WordPress&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=plastic&logo=Apache%20Airflow&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=plastic&logo=Amazon%20DynamoDB&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=plastic&logo=numpy&logoColor=blue) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white)
+## 🛠️ Tech Stack
 
-## 🛠️ Projects
-- **AI-Powered Analysis**: Worked on building intelligent systems for data-driven decision-making.
-- **Web-Based Applications**: Developed scalable web applications with Django and modern front-end frameworks.
-- **Data Processing & Insights**: Engineered solutions for large-scale data processing and analytics.
+**Languages & Core:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
+**AI, ML & Data Science:**
+![LlamaIndex](https://img.shields.io/badge/Llama_3-0467DF?style=for-the-badge&logo=meta&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) 
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+**Cloud & Data Engineering:**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**Web & Tools:**
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 💡 Featured Projects
+
+### 🤖 **[Local-First Agentic RAG & Data Analyst]**
+*A privacy-centric AI platform featuring a "Flight Mode" for air-gapped document inference.*
+- **Tech:** Python, LangChain, Llama 3.2, Ollama, Streamlit, ChromaDB.
+- **Key Feature:** Built an intelligent routing agent that autonomously switches between Vector Search (internal docs), Web Search, or a Python Analyst agent for data visualization.
+
+### 🦴 **[3D Scoliosis Detection System]**
+*A hybrid 3D-AI inference pipeline for automated medical diagnosis.*
+- **Tech:** PyVista, VTK, MoveNet, ONNX Runtime.
+- **Key Feature:** Achieved **99% accuracy** in view classification by projecting 3D meshes into 2D feature maps and using regression for clinical ROI segmentation.
+
+### 🕵️ **[Agentic Fake News Detection]**
+*A hybrid verification pipeline combining deep learning with semantic reasoning.*
+- **Tech:** BERT, Llama-3-8B, Python.
+- **Key Feature:** Uses a fine-tuned BERT model for probability scoring and an Agentic LLM to cross-reference claims against trusted sources to explain *why* news is fake.
+
+---
 
 ## 📫 Let's Connect!
-- 🔗 **[LinkedIn](https://www.linkedin.com/in/prasanth-muntha-30b96623b/)**  
-- 📝 **Portfolio:** ⚙️ Coming soon!
-  
-Let's build something amazing together! 🚀
+<p align="left">
+<a href="https://www.linkedin.com/in/prasanth-muntha-30b96623b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prasanth muntha" height="30" width="40" /></a>
+<a href="mailto:pmuntha@mail.yu.edu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="pmuntha@mail.yu.edu" height="30" width="40" /></a>
+</p>
