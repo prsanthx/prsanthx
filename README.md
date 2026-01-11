@@ -1,4 +1,5 @@
-# Hi there! 👋 I'm Prasanth Muntha
+# Hi there! 👋 I'm Prasanth Muntha  
+🌐 **Portfolio:** [https://prsanth.github.io](https://prsanth.github.io)
 
 ### 🎓 MS in AI/ML at Yeshiva University | 💻 Ex-Software Developer at Aloha Technologies
 
@@ -61,3 +62,7 @@ Currently, I am pursuing my Master's in Artificial Intelligence at Yeshiva Unive
 <a href="mailto:pmuntha@mail.yu.edu" target="_blank">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
+<a href="https://prsanth.github.io" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" />
+</a>
+
