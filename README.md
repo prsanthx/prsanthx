@@ -1,5 +1,5 @@
 # Hi there! 👋 I'm Prasanth Muntha  
-🌐 **Portfolio:** [https://prsanth.github.io](https://prsanthx.github.io/)
+🌐 **Portfolio:** [https://prsanthx.github.io](https://prsanthx.github.io/)
 
 ### 🎓 MS in AI/ML at Yeshiva University | 💻 Ex-Software Developer at Aloha Technologies
 
